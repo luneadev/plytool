@@ -1,0 +1,5 @@
+colorama
+webbrowser
+os
+sys
+subprocess
